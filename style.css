@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin-top: none;
+}
+
+section {
+    float: right;
+    margin-left: 125px;
+}
+
+.border-bottom {
+    margin-bottom: 60px;
+    padding: 25px;
+    
+
+}
+
+
+p {
+    margin-left: 50%;
+}
+
+main h1 {
+    margin-left: 50%;
+}
+
+.card-text {
+    margin-left: 20px;
+}
+
+img {
+    margin-bottom: 35px;
+    float: right;
+}
+
+main {
+    margin-bottom: 35px;
+}
+
